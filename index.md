@@ -60,7 +60,7 @@ CET-4
 
 ### Essay test video
 Infrared dim target tracking based on SiamRPN model.<https://github.com/AHUT507LAB/Infrared-dim-target-based-on-SiamRPN>
+
 Infrared dim target tracking based on OSTrack model.<https://github.com/AHUT507LAB/Infrared-dim-small-target-tracking>
 
-### ResearchGate HomePage
-Yang yu <https://www.researchgate.net/profile/Yang-Yu-50>
+
